@@ -1,23 +1,48 @@
-## Hi there 👋
-![nihao230's GitHub stats](https://github-readme-stats.vercel.app/api?username=nihao230&theme=dark&show_icons=true)
-
+<div align="center">
+  
+# 👋 嗨，我是 nihao230!
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=上海海事大学+AI+专业本科生;热爱编程+%7C+探索人工智能;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
-
-[![Profile Views](https://komarev.com/ghpvc/?username=nihao230&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/nihao230)
-[![GitHub followers](https://img.shields.io/github/followers/nihao230?label=Followers&style=social)](https://github.com/nihao230?tab=followers)
-[![GitHub Stars](https://img.shields.io/github/stars/nihao230?label=Stars&style=social)](https://github.com/nihao230)
 
 </div>
 
 ---
 
-## 🎓 关于我
+## 🚀 个人简介
+
+<table>
+  <tr>
+    <td width="35%" valign="top">
+      <div align="center">
+        <img src="./超人胡英俊.jpg" alt="Profile Picture" width="280" style="border-radius: 50%; border: 4px solid #00D9FF; box-shadow: 0 0 20px rgba(0, 217, 255, 0.5);"/>
+        <br><br>
+        <h3>🎓 超人胡英俊</h3>
+        <p><em>AI Explorer & Code Warrior</em></p>
+        <br>
+        <p>
+          <a href="https://github.com/nihao230">
+            <img src="https://komarev.com/ghpvc/?username=nihao230&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+          </a>
+        </p>
+        <p>
+          <a href="https://github.com/nihao230?tab=followers">
+            <img src="https://img.shields.io/github/followers/nihao230?label=Followers&style=social" alt="GitHub Followers"/>
+          </a>
+          <a href="https://github.com/nihao230">
+            <img src="https://img.shields.io/github/stars/nihao230?label=Stars&style=social" alt="GitHub Stars"/>
+          </a>
+        </p>
+      </div>
+    </td>
+    <td width="65%" valign="top">
+      
+### 👨‍💻 关于我
 
 ```python
 class AIStudent:
     def __init__(self):
-        self.name = "nihao230"
+        self.name = "超人胡英俊"
+        self.username = "nihao230"
         self.university = "上海海事大学 🎓"
         self.major = "人工智能"
         self.location = "Shanghai, China 🇨🇳"
@@ -25,14 +50,27 @@ class AIStudent:
             "深度学习", "计算机视觉", 
             "自然语言处理", "强化学习"
         ]
-        self.current_focus = "探索AI的无限可能"
+        self.motto = "代码改变世界，AI创造未来"
     
     def say_hi(self):
-        print("感谢访问我的GitHub主页，让我们一起coding改变世界！")
+        print("感谢访问我的GitHub主页！")
+        print("让我们一起用代码创造更美好的未来！✨")
 
 me = AIStudent()
 me.say_hi()
 ```
+
+### 🎯 2025年目标
+
+- [ ] 🚀 完成3个以上AI开源项目
+- [ ] 📝 发布10篇技术博客
+- [ ] 🏅 参加AI竞赛并获奖
+- [ ] 💪 贡献更多开源社区
+- [ ] 📚 深入研究大语言模型
+
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -89,21 +127,36 @@ me.say_hi()
 
 ## 🌱 我正在学习
 
-- 🧠 **深度学习高级技术** - Transformer、BERT、GPT系列
-- 👁️ **计算机视觉** - 目标检测、图像分割、GAN
-- 🗣️ **自然语言处理** - LLM应用开发
-- 🎮 **强化学习** - DQN、PPO算法实现
-- ☁️ **MLOps** - 模型部署与工程化
-
----
-
-## 🎯 2025年目标
-
-- [ ] 🚀 完成3个以上AI开源项目
-- [ ] 📝 发布10篇技术博客
-- [ ] 🏅 参加AI竞赛并获奖
-- [ ] 💪 贡献更多开源社区
-- [ ] 📚 深入研究大语言模型
+<table>
+  <tr>
+    <td width="50%">
+      
+- 🧠 **深度学习高级技术**
+  - Transformer架构深度解析
+  - BERT、GPT系列模型实战
+  - 注意力机制原理与应用
+      
+- 👁️ **计算机视觉**
+  - YOLO系列目标检测
+  - Mask R-CNN实例分割
+  - GAN图像生成技术
+      
+    </td>
+    <td width="50%">
+      
+- 🗣️ **自然语言处理**
+  - 大语言模型应用开发
+  - RAG检索增强生成
+  - Prompt Engineering
+      
+- 🎮 **强化学习**
+  - DQN、PPO算法实现
+  - 多智能体强化学习
+  - OpenAI Gym环境搭建
+      
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -147,4 +200,3 @@ me.say_hi()
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
 </div>
--->
