@@ -1,14 +1,10 @@
-## 📊 GitHub 统计分析
+### 📊 GitHub 活跃度分析
 
-<table border="0">
-  <tr>
-    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nihao230&theme=2077" /></td>
-    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nihao230&theme=2077" /></td>
-  </tr>
-  <tr>
-    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nihao230&theme=2077" /></td>
-    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nihao230&theme=2077" /></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nihao230&theme=aura_dark" width="48%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nihao230&theme=aura_dark" width="48%" />
+</p>
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nihao230&theme=2077&utcOffset=8" width="100%" />
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nihao230&theme=aura_dark&utcOffset=8" width="96%" />
+</p>
